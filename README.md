@@ -17,12 +17,12 @@ I recommend hitting the 'like' button on each post as you complete that day, to 
 ## What will we work on each day?
 Over the 10 days, there will be 2 main YouTube tutorials, 3-4 extra mini-tutorials, 4 live sessions, and 5 references images to draw each day. As always, I will keep everything as concise and clear as possible. Here's a summary of how the challenge will be structured: 
 
-### [Day 1](./01%20-%20The%20Fresh%20Eyes%202D%20model)
+### [Day 1](./01%20-%20The%20Fresh%20Eyes%202D%20model/)
 * YouTube Tutorial: the Fresh Eyes 2D model, approx 15 mins
 * Extra explanation mini-tutorial: how to use the 2D model in practice
 * Exercise 1: recreating poses with the 2D model for 5 front poses
 
-### Day 2
+### [Day 1](./02/)
 * Exercise 2: recreating and drawing 5 front view poses with the 2D model
 * Recording of the live session, 45  mins - how to see the major forms and ideas in the front poses and addressing common mistakes.
 
