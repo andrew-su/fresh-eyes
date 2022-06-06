@@ -27,7 +27,7 @@ Over the 10 days, there will be 2 main YouTube tutorials, 3-4 extra mini-tutoria
 * Recording of the live session, 45  mins - how to see the major forms and ideas in the front poses and addressing common mistakes.
 
 ### Day 3
-* Extra explanation mini-tutorial: Introducing the side view. 
+* Extra explanation mini-tutorial: Introducing the side view.
 * Exercise 3: Recreating and drawing 5 side view poses using the 2D model.
 
 ### Day 4
@@ -52,11 +52,11 @@ Over the 10 days, there will be 2 main YouTube tutorials, 3-4 extra mini-tutoria
 ### Day 9
 * Exercise 9 - drawing complex ribcage and pelvis relationships with angle difference, tilt difference and rotation difference / twist. At this point, we start to understand the relationships between forms in 3 dimensions at once.
 
-### Day 10 
+### Day 10
 * Drawing Exercise 9, accompanied with new reference poses
 * recording of the live session, 45 mins - the finale live session, where we tackle all sorts of poses using our Fresh Eyes to understand the forms we see.
 
 ## When were the live sessions recorded?
-The live sessions were recorded in February 2022 when the Fresh Eyes challenge was started. The sessions were a chance to gain extra clarity about the simplified forms we are studying, address common problems that came up in the community area and to answer questions. These live sessions were optional and watching the recordings is not a requirement for you to complete the challenge, but they are there for you to watch at your own pace if you find them useful! 
+The live sessions were recorded in February 2022 when the Fresh Eyes challenge was started. The sessions were a chance to gain extra clarity about the simplified forms we are studying, address common problems that came up in the community area and to answer questions. These live sessions were optional and watching the recordings is not a requirement for you to complete the challenge, but they are there for you to watch at your own pace if you find them useful!
 
 Thanks everyone, and hope you enjoy the challenge!

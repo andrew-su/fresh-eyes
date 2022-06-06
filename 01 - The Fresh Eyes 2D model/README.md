@@ -1,12 +1,10 @@
-
-
 # Tutorial 1: The Fresh Eyes 2D model
 The first thing to do is watch the tutorial (if you have a moment to click through to 'Watch on Youtube', it would really help us out if you leave a like and a comment!).
 
 [![These 10 Shapes Unlock All of Figure Drawing - How? Fresh Eyes pt 1](https://img.youtube.com/vi/LQQXCJvy36Y/0.jpg)](https://www.youtube.com/watch?v=LQQXCJvy36Y)
 
-## Exercise 1 
-Your mission for today is to recreate the 5 poses at the bottom of this page using the Fresh Eyes 2D model for the front view as seen in the tutorial. You can download the 2D model below. 
+## Exercise 1
+Your mission for today is to recreate the 5 poses at the bottom of this page using the Fresh Eyes 2D model for the front view as seen in the tutorial. You can download the 2D model below.
 
 There's a few different things to figure out on this first day of the challenge. Just post in the community if you're unsure about anything.
 
@@ -14,9 +12,8 @@ There's a few different things to figure out on this first day of the challenge.
 
 So to summarise, this is today's exercise:
 
-
 ## 2D model downloads (front view)
-We have created the 2D models in a few different file types so you can use whichever version suits you best. Of these, the most fiddly and awkward is the Google drawings version, so try other versions before that. 
+We have created the 2D models in a few different file types so you can use whichever version suits you best. Of these, the most fiddly and awkward is the Google drawings version, so try other versions before that.
 
 * **Printable paper version**: [HERE](./assets/Fresh%20Eyes%20paper%20version%20-%20male.PNG) (male) and [HERE](./assets/Fresh%20Eyes%20paper%20version%20-%20female.PNG) (female)
 * **Procreate (this is an iPad app)**: [HERE](./assets/Fresh_Eyes_Male_V1.1.procreate) (male) and [HERE](./assets/Fresh_Eyes_Female_V1.1.procreate) (female)
@@ -38,7 +35,7 @@ To use the paper versions, simply print it out, cut out the shapes, and start ar
 ## The Google Drawings version
 Click on the Google drawing link in the '2D models downloads' section above for the model you need. You would need a Google account to use the Google drawing versions. You'll be prompted to 'make a copy' of the file, so please do make a copy. Then you'll see all the shapes there. Important note: if 'Snap to Guides' is turned on, turn it off! (Go to View - Snap to - make sure 'Guides' is not ticked).
 
-You can drag them across to the left side of the canvas, and start to arrange them. I'd recommend starting from the torso and working out from there. 
+You can drag them across to the left side of the canvas, and start to arrange them. I'd recommend starting from the torso and working out from there.
 
 ## How to find the angles of the ribcage, pelvis and shoulders
 If you are unsure about how to see the angle of the ribcage, pelvis and shoulders, then here is a video to help you. (I unfortunately lost my voice before recording this so I don't sound very well, even though I actually felt great!).
@@ -63,6 +60,5 @@ If you are unsure about how to see the angle of the ribcage, pelvis and shoulder
 ### Please don't:
 * Share the photographs themselves with anyone else or online
 * Incorporate the photographs themselves in your artwork: these images are to be used for reference only
-
 
 If you have any questions, email me!
